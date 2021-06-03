@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vindhyasadanand/cinepedia.git/static/css/main.d6d07137.chunk.css",
+    "main.js": "/vindhyasadanand/cinepedia.git/static/js/main.da9d2dd4.chunk.js",
+    "main.js.map": "/vindhyasadanand/cinepedia.git/static/js/main.da9d2dd4.chunk.js.map",
+    "runtime-main.js": "/vindhyasadanand/cinepedia.git/static/js/runtime-main.07f8d624.js",
+    "runtime-main.js.map": "/vindhyasadanand/cinepedia.git/static/js/runtime-main.07f8d624.js.map",
+    "static/js/2.c68878e0.chunk.js": "/vindhyasadanand/cinepedia.git/static/js/2.c68878e0.chunk.js",
+    "static/js/2.c68878e0.chunk.js.map": "/vindhyasadanand/cinepedia.git/static/js/2.c68878e0.chunk.js.map",
+    "static/js/3.a13e27bd.chunk.js": "/vindhyasadanand/cinepedia.git/static/js/3.a13e27bd.chunk.js",
+    "static/js/3.a13e27bd.chunk.js.map": "/vindhyasadanand/cinepedia.git/static/js/3.a13e27bd.chunk.js.map",
+    "index.html": "/vindhyasadanand/cinepedia.git/index.html",
+    "static/css/main.d6d07137.chunk.css.map": "/vindhyasadanand/cinepedia.git/static/css/main.d6d07137.chunk.css.map",
+    "static/js/2.c68878e0.chunk.js.LICENSE.txt": "/vindhyasadanand/cinepedia.git/static/js/2.c68878e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07f8d624.js",
+    "static/js/2.c68878e0.chunk.js",
+    "static/css/main.d6d07137.chunk.css",
+    "static/js/main.da9d2dd4.chunk.js"
+  ]
+}
